@@ -41,7 +41,7 @@ const TodoserProvider = ({ children }) => {
   )
 }
 
-// mulai dari sini buat halaman yang tugasnya belum dikerjakan ya
+// mulai dari sini buat halaman yang tugasnya belum dikerjakan ya, oke
 
 function Todo({ todo, index, completeTodo, removeTodo }) {
 
